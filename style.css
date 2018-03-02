@@ -3,3 +3,29 @@ Theme Name: City University Theme
 Author: Elshalakani
 Version: 1.0
 */
+
+    .app-footer h6{
+        color: white;
+    }
+#Symbol1
+{
+    padding-right: 12px !important;
+}
+.divPadding
+{
+    padding: 5vh 0;
+}
+@media (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+        body {
+          width: 1px;
+          min-width: 100%;
+          *width: 100%;
+        }
+        #stage {
+          height: 1px;
+          overflow: auto;
+          min-height: 100vh;
+          -webkit-overflow-scrolling: touch;
+        }
+
+      }
